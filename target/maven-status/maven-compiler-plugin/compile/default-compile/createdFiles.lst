@@ -1,0 +1,4 @@
+com\noesis\cachemanager\controller\UserController.class
+com\noesis\cachemanager\controller\CacheCleanController.class
+com\noesis\cachemanager\controller\StaticDataController.class
+com\noesis\cachemanager\App.class
